@@ -1,0 +1,28 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.main-container {
+  display: flex;
+  height: 500px;
+}
+
+.main-container .pane {
+  flex: 1;
+  height: inherit;
+}
+
+.main-container .pane .pane-content,
+.react-codemirror2 {
+  height: inherit;
+}
+
+.pane-header {
+  z-index: 10;
+  position: relative;
+}
+
+.CodeMirror {
+  height: inherit;
+}
