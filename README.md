@@ -2,4 +2,4 @@
 
 Inspired from https://www.jsonschemavalidator.net/
 
-This also lets users to save their custom schema locally
+This also lets users to save their custom schema locally.
